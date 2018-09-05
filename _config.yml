@@ -1,6 +1,6 @@
 title: Carlos Alba
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "calba5141114.github.io"
+baseurl: ""
 
 markdown: kramdown
 remote_theme: ankitsultana/researcher@gem
@@ -21,4 +21,4 @@ nav:
  - name: "Resume"
    link: "resume.pdf"
  - name: "About"
-   link: "/researcher/"
+   link: "#"
