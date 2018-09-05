@@ -1,14 +1,15 @@
-title: Researcher
+title: Carlos Alba
 url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
 markdown: kramdown
+remote_theme: ankitsultana/researcher@gem
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/bk2dcradle"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/calba5141114"
+footer_text: "Blog Maintained by Carlos Alba"
 
 sass:
     style: compressed

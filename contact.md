@@ -3,19 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [carlos.alba@students.makeschool.com](mailto:carlos.alba@students.makeschool.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+1-415-900-8591](tel:+1-415-900-8591)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 246 McAllister St 
 >
-> London
+> San Francisco
 >
-> United Kingdom
+> United States Of America
 
 ---
 
